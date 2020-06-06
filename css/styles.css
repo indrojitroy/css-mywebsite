@@ -1,0 +1,136 @@
+
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Baloo Paaji 2', cursive;
+  font-size: 1.4em;
+  color: #40514E;
+}
+.t{
+  background-color: #77d8d8;
+  position: relative;
+  padding-top: 100px;
+}
+h1{
+  margin:0 auto 0 auto;
+  width: 10%;
+font-family: 'Dancing Script', cursive;
+font-size: 3rem;
+color:  #400082;
+}
+h2{
+  font-family: 'Baloo Paaji 2', cursive;
+  color: #400082;
+}
+h3{
+  font-family: 'Baloo Paaji 2', cursive;
+  color: #11999E;
+}
+img{
+margin-bottom: 0;
+
+}
+.tcloud{
+  position: absolute;
+  right:500px;
+  top:30px;
+}
+.bcloud{
+  position: absolute;
+  left:500px;
+  bottom:300px;
+
+}
+.intro{
+  width: 30%;
+  margin: 0 auto 0 auto;
+}
+.moun{
+  position: relative;
+  bottom: -14px;
+}
+.developer{
+  font-weight: normal;
+}
+.myimg{
+  height: 200px;
+    width: 150px;
+}
+.photo1{
+  height: 20%;
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+.photo2{
+  height: 20%;
+  width: 20%;
+  float:right;
+  margin-right: 30px;
+}
+.photo3{
+  height: 20%;
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-row
+{
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+}
+.skills{
+  margin-bottom: 0;
+}
+.profile{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.bottom-container{
+  color: #11999E;
+  background-color:#66BFBF ;
+  margin-top: 30px;
+}
+.bottom{
+  margin-bottom: 0;
+ color: #EAF6F6;
+ font-size: 20px;
+}
+.hr{
+border:dotted #687466 5px;
+border-bottom: none;
+width :4%;
+margin: 70px auto;
+}
+a{text-decoration:none;
+  color:  #11999E;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.btn {
+	box-shadow: 0px 1px 0px 0px #f0f7fa;
+	background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+	background-color:#33bdef;
+	border-radius:9px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	font-weight:bold;
+	padding:10px 20px 10px 20px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #5b6178;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+	background-color:#019ad2;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
